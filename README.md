@@ -36,25 +36,24 @@ These projects represent my coursework — I'm still building experience but pro
 
 ## Skills I'm Developing
 
-**Languages**
+| Category             | Tools                               |
+| -------------------- | ----------------------------------- |
+| **Languages**        | Python • R • SQL                    |
+| **Machine Learning** | Scikit-learn • Random Forest • SHAP |
+| **Data Analysis**    | Pandas • NumPy • tidyverse          |
+| **Visualization**    | ggplot2 • Matplotlib                |
+| **Databases**        | MySQL • Database Design (3NF)       |
+| **Development**      | Git • Jupyter • RMarkdown           |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Data Science & Analysis**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**Tools & Workflow**
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
