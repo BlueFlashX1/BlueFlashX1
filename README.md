@@ -72,11 +72,13 @@ I enjoy scripting and automation outside of class:
 
 **Target**: Entry-level **Data Analyst** roles (open to Junior Data Scientist opportunities)
 
-**Industries I'm interested in**:
+**What I bring**:
 
-- Healthcare & clinical data
-- Biology & life sciences
-- AI-driven applications
+- Analytical skills in Python, SQL, and R that transfer across industries
+- Biology background as domain expertise for healthcare and life sciences
+- Genuine interest in AI-driven applications and automation
+
+I'm early in my career and focused on finding a role where I can learn and grow. While I'm drawn to healthcare and biology, I'm open to opportunities in other industries where I can contribute and develop as a data professional.
 
 **Work style**: I prefer working independently and value efficiency, but I collaborate well when needed.
 
