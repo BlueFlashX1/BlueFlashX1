@@ -59,11 +59,16 @@ These projects represent my coursework — I'm still building experience but pro
 
 ## Beyond Coursework
 
-I enjoy scripting and automation outside of class:
+I enjoy building tools and automation outside of class:
 
-- **Forked & fixed** a broken multi-account manager tool, adding new features with AI assistance
-- **Built personal scripts** for PC performance optimization and scheduled task automation
-- Drawn to programming because it lets me solve problems efficiently and work independently
+| Project                                                                       | Description                                                                                                      | Tech         |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------ |
+| [**Multi Roblox Manager**](https://github.com/BlueFlashX1/multi-roblox-macos) | Enhanced fork with +7,400 lines: account switcher, macOS Keychain integration, resource monitor, friends manager | Go, Fyne GUI |
+
+Other interests:
+
+- Personal scripts for PC optimization and scheduled task automation
+- Drawn to programming because it lets me solve problems efficiently
 
 ---
 
@@ -94,7 +99,7 @@ I'm actively seeking opportunities where I can grow as a data professional while
   <a href="mailto:matthewqilanthompson.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/BlueFlashX1/portfolio">
+  <a href="https://github.com/BlueFlashX1/Data-Science-Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-181717?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
