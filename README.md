@@ -1,27 +1,40 @@
-# Hi, I'm Matthew Thompson 👋
+# Hi, I'm Matthew Thompson
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewqilanthompson)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueFlashX1/portfolio)
 
-## 🎯 Data Scientist | Healthcare & Biological Sciences
+## Aspiring Data Analyst | Biology Background
 
-**Master's Student at University of Arizona** specializing in machine learning for healthcare analytics, EHR systems, and biological data science. Seeking Data Scientist or Analyst roles where I can apply predictive modeling to improve patient outcomes.
+**Graduate Student** pursuing a Master's in Data Science at the University of Arizona (Expected: May 2026). I have a B.S. in Biology with a Data Science minor, and I'm drawn to roles where I can combine analytical thinking with my interest in healthcare, biology, and AI-driven applications.
 
----
-
-## 🏆 Key Achievements
-
-| Achievement                   | Context                                                      |
-| ----------------------------- | ------------------------------------------------------------ |
-| **5th / 40 participants**     | Healthcare readmission prediction competition (ROC AUC 0.90) |
-| **14 analytical reports**     | SQL-based EHR analysis on 53,346 encounters                  |
-| **1,087 families classified** | ML taxonomy prediction using evolutionary traits             |
-| **67MB EHR dataset**          | Normalized database design (3NF) with complex queries        |
+I enjoy building automations to solve repetitive problems and writing scripts that make workflows more efficient — whether that's data pipelines or personal productivity tools.
 
 ---
 
-## 🛠️ Technical Stack
+## Education
+
+| Degree                | Institution                                  | Status                 |
+| --------------------- | -------------------------------------------- | ---------------------- |
+| **M.S. Data Science** | University of Arizona (Online)               | In Progress — May 2026 |
+| **B.S. Biology**      | Gallaudet University _(Minor: Data Science)_ | Completed              |
+
+---
+
+## Academic Projects
+
+These projects represent my coursework — I'm still building experience but proud of what I've learned:
+
+| Project                                                                                                                                      | What I Did                                                                                                      | Tech                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [**Healthcare Readmission Prediction**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day readmission risk; placed 5th/40 in class competition (ROC AUC 0.90) | Python, Scikit-learn |
+| [**EHR Analytics Database**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/database-systems/sql-nosql-databases-info579)       | Designed normalized schemas and wrote 14 analytical SQL reports from 53K patient encounters                     | MySQL, Python        |
+| [**Taxonomic ML Classification**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/data-mining-final-project)        | Used SHAP to interpret which evolutionary traits predict animal taxonomy across 1,087 families                  | Python, SHAP         |
+| [**R Visualization Portfolio**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/r-analytics/data-visualization-portfolio)        | Created ecological and economic visualizations using ggplot2, including alluvial diagrams                       | R, ggplot2           |
+
+---
+
+## Skills I'm Developing
 
 **Languages**
 
@@ -29,98 +42,64 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Data Science & ML**
+**Data Science & Analysis**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square)
-
-**Visualization**
-
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white)
 
-**Databases & Tools**
+**Tools & Workflow**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 Featured Projects
+## Beyond Coursework
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/foundation-of-data-science">🏥 Healthcare Readmission Prediction</a></h3>
-      <p><strong>5th place</strong> in ML competition predicting 30-day hospital readmissions</p>
-      <p><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code></p>
-      <p>ROC AUC: <strong>0.90</strong> | 125,958 encounters</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/BlueFlashX1/portfolio/tree/main/projects/database-systems/sql-nosql-databases-info579">🗃️ EHR Analytics Database</a></h3>
-      <p>Normalized schema design with <strong>14 analytical reports</strong></p>
-      <p><code>MySQL</code> <code>Python</code> <code>CTEs</code></p>
-      <p>53,346 encounters | 67MB Synthea data</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/data-mining-final-project">🧬 Taxonomic ML Classification</a></h3>
-      <p>SHAP-driven analysis of evolutionary traits across 1,087 families</p>
-      <p><code>Python</code> <code>SHAP</code> <code>Quarto</code></p>
-      <p><a href="https://info-523-su25.github.io/final-project-thompson/">View Live Website →</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/BlueFlashX1/portfolio/tree/main/projects/r-analytics/data-visualization-portfolio">📊 R Visualization Portfolio</a></h3>
-      <p>Ecological & economic analysis with advanced ggplot2</p>
-      <p><code>R</code> <code>ggplot2</code> <code>tidyverse</code></p>
-      <p>992 lines | Alluvial diagrams</p>
-    </td>
-  </tr>
-</table>
+I enjoy scripting and automation outside of class:
+
+- **Forked & fixed** a broken multi-account manager tool, adding new features with AI assistance
+- **Built personal scripts** for PC performance optimization and scheduled task automation
+- Drawn to programming because it lets me solve problems efficiently and work independently
 
 ---
 
-## 📈 GitHub Activity
+## What I'm Looking For
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueFlashX1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+**Target**: Entry-level **Data Analyst** roles (open to Junior Data Scientist opportunities)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueFlashX1&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+**Industries I'm interested in**:
+
+- Healthcare & clinical data
+- Biology & life sciences
+- AI-driven applications
+
+**Work style**: I prefer working independently and value efficiency, but I collaborate well when needed.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-**Currently seeking**: Data Scientist, Data Analyst, or Healthcare Analytics positions
-
-I'm particularly interested in roles where I can:
-
-- Apply ML to healthcare outcomes and patient care
-- Work with EHR systems and clinical data
-- Contribute to biological/ecological research applications
+I'm actively seeking opportunities where I can grow as a data professional while contributing to meaningful work.
 
 <p align="center">
   <a href="https://linkedin.com/in/matthewqilanthompson">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Experience-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:matthewqilanthompson.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://github.com/BlueFlashX1/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-181717?style=for-the-badge&logo=github" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-181717?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Building data-driven solutions for healthcare and biological sciences</em>
+  <em>Biology domain expertise + Data science skills + Automation mindset</em>
 </p>
