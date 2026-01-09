@@ -30,7 +30,7 @@ These projects represent my coursework — I'm still building experience but pro
 | [**Healthcare Readmission Prediction**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day readmission risk; placed 5th/40 in class competition (ROC AUC 0.90) | Python, Scikit-learn |
 | [**EHR Analytics Database**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/database-systems/sql-nosql-databases-info579)       | Designed normalized schemas and wrote 14 analytical SQL reports from 53K patient encounters                     | MySQL, Python        |
 | [**Taxonomic ML Classification**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/data-mining-final-project)        | Used SHAP to interpret which evolutionary traits predict animal taxonomy across 1,087 families                  | Python, SHAP         |
-| [**R Visualization Portfolio**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/r-analytics/data-visualization-portfolio)        | Created ecological and economic visualizations using ggplot2, including alluvial diagrams                       | R, ggplot2           |
+| [**R Visualization Portfolio**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/r-analytics/data-visualization-portfolio)        | Created wildlife, safety, and economic visualizations using ggplot2, including alluvial diagrams                | R, ggplot2           |
 
 ---
 
