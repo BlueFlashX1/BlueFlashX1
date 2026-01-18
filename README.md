@@ -4,9 +4,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueFlashX1/Data-Science-Portfolio)
 
-## Aspiring Data Analyst | Biology Background
+## Data Analyst | Biology Background
 
-**Graduate Student** pursuing a Master's in Data Science at the University of Arizona (Expected: May 2026). I have a B.S. in Biology with a Data Science minor, and I'm drawn to roles where I can combine analytical thinking with my interest in healthcare, biology, and AI-driven applications.
+Pursuing M.S. in Data Science at University of Arizona (Expected: May 2026) with B.S. in Biology and Data Science minor. I combine analytical skills with biological domain expertise, with particular interest in healthcare, life sciences, and AI-driven applications.
 
 I enjoy building automations to solve repetitive problems and writing scripts that make workflows more efficient — whether that's data pipelines or personal productivity tools.
 
@@ -23,27 +23,27 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 ## Academic Projects
 
-These projects represent my coursework — I'm still building experience but proud of what I've learned:
+These projects demonstrate my data science capabilities across healthcare analytics, machine learning, database systems, and statistical visualization:
 
-| Project                                                                                                                                      | What I Did                                                                                                      | Tech                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [**Healthcare Readmission Prediction**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day readmission risk; placed 5th/40 in class competition (ROC AUC 0.90) | Python, Scikit-learn |
-| [**EHR Analytics Database**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/database-systems/sql-nosql-databases-info579)       | Designed normalized schemas and wrote 14 analytical SQL reports from 53K patient encounters                     | MySQL, Python        |
-| [**Taxonomic ML Classification**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/data-mining-final-project)        | Used SHAP to interpret which evolutionary traits predict animal taxonomy across 1,087 families                  | Python, SHAP         |
-| [**R Visualization Portfolio**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/r-analytics/data-visualization-portfolio)        | Created wildlife, safety, and economic visualizations using ggplot2, including alluvial diagrams                | R, ggplot2           |
+| Project                                                                                                                                      | What I Applied                                                                                                                                      | Tech                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [**Healthcare Readmission Prediction**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/foundation-of-data-science) | Developed Random Forest classifier for 30-day readmission risk; placed 5th/40 in class competition (ROC AUC 0.90) from 125,958 EHR encounters       | Python, Scikit-learn |
+| [**EHR Analytics Database**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/database-systems/sql-nosql-databases-info579)       | Designed 3NF normalized schemas and created 14 analytical SQL reports analyzing 1,171 patients and 53,346 encounters                                | MySQL, Python        |
+| [**Taxonomic ML Classification**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/data-mining-final-project)        | Applied SHAP analysis to identify evolutionary traits predicting animal taxonomy across 1,087 families                                              | Python, SHAP         |
+| [**R Visualization Portfolio**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/r-analytics/data-visualization-portfolio)        | Created comprehensive visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams | R, ggplot2           |
 
 ---
 
-## Skills I'm Developing
+## Skills I Have
 
-| Category             | Tools                               |
-| -------------------- | ----------------------------------- |
-| **Languages**        | Python • R • SQL                    |
-| **Machine Learning** | Scikit-learn • Random Forest • SHAP |
-| **Data Analysis**    | Pandas • NumPy • tidyverse          |
-| **Visualization**    | ggplot2 • Matplotlib                |
-| **Databases**        | MySQL • Database Design (3NF)       |
-| **Development**      | Git • Jupyter • RMarkdown           |
+| Category             | Tools & Applications                                                                                                                        |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**        | Python (ML pipelines, data processing) • R (statistical analysis, visualization) • SQL (complex queries, database design)                   |
+| **Machine Learning** | Scikit-learn (classification, model comparison) • Random Forest (readmission prediction, ROC AUC 0.90) • SHAP (model explainability)        |
+| **Data Analysis**    | Pandas (EHR data processing, 125K+ encounters) • NumPy (numerical computing) • tidyverse (data transformation, reproducible workflows)      |
+| **Visualization**    | ggplot2 (advanced plots, alluvial diagrams) • Matplotlib (data visualization)                                                               |
+| **Databases**        | MySQL (3NF schema design, multi-table joins) • Database Design (1,171 patients, 53K encounters) • CTEs, window functions, temporal analysis |
+| **Development**      | Git (version control) • Jupyter (interactive analysis) • RMarkdown (reproducible research, automated reporting)                             |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -76,13 +76,15 @@ Other interests:
 
 **Target**: Entry-level **Data Analyst** roles (open to Junior Data Scientist opportunities)
 
+**Interests**: Healthcare data • Life sciences • AI-driven applications • Automation
+
 **What I bring**:
 
-- Analytical skills in Python, SQL, and R that transfer across industries
-- Biology background as domain expertise for healthcare and life sciences
-- Genuine interest in AI-driven applications and automation
+- **Technical skills**: Python, SQL, and R with hands-on experience building ML models, designing databases, and creating visualizations
+- **Domain expertise**: Biology background that provides strong foundation for analyzing life sciences and healthcare data
+- **Proven results**: 5th/40 placement in ML competition (ROC AUC 0.90), database systems handling 53K+ encounters, statistical analyses across multiple domains
 
-I'm early in my career and focused on finding a role where I can learn and grow. While I'm drawn to healthcare and biology, I'm open to opportunities in other industries where I can contribute and develop as a data professional.
+I combine analytical skills with a Biology background to solve data problems. I've built predictive models achieving ROC AUC 0.90 (5th/40 in class competition), designed database systems handling 53K+ patient encounters, and created statistical visualizations across multiple domains. My Biology background provides domain expertise that enhances analysis of life sciences and healthcare data. Currently pursuing my M.S. in Data Science, I'm seeking roles where I can apply these skills to deliver value while continuing to grow. While I'm particularly interested in healthcare and life sciences applications, I'm open to opportunities across industries.
 
 **Work style**: I prefer working independently and value efficiency, but I collaborate well when needed.
 
@@ -90,7 +92,7 @@ I'm early in my career and focused on finding a role where I can learn and grow.
 
 ## Let's Connect
 
-I'm actively seeking opportunities where I can grow as a data professional while contributing to meaningful work.
+I'm seeking entry-level Data Analyst or Junior Data Scientist roles where I can apply my skills and continue growing as a data professional.
 
 <p align="center">
   <a href="https://linkedin.com/in/matthewqilanthompson">
