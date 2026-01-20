@@ -1,10 +1,10 @@
 # Hi, I'm Matthew Thompson
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthewqilanthompson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewqilanthompson/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueFlashX1/Data-Science-Portfolio)
 
-## Data Analyst | Biology Background
+## Data Science MS Student (Bio Background) | R, Python & SQL for Healthcare/Biology Data | Python, AI & CLI for Workflow Automation
 
 Pursuing M.S. in Data Science at University of Arizona (Expected: May 2026) with B.S. in Biology and Data Science minor. I combine analytical skills with biological domain expertise, with particular interest in healthcare, life sciences, and AI-driven applications.
 
@@ -25,12 +25,12 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 These projects demonstrate my data science capabilities across healthcare analytics, machine learning, database systems, and statistical visualization:
 
-| Project                                                                                                                                      | What I Applied                                                                                                                                      | Tech                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [**Healthcare Readmission Prediction**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/foundation-of-data-science) | Developed Random Forest classifier for 30-day readmission risk; placed 5th/40 in class competition (ROC AUC 0.90) from 125,958 EHR encounters       | Python, Scikit-learn |
-| [**EHR Analytics Database**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/database-systems/sql-nosql-databases-info579)       | Designed 3NF normalized schemas and created 14 analytical SQL reports analyzing 1,171 patients and 53,346 encounters                                | MySQL, Python        |
-| [**Taxonomic ML Classification**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/data-science/data-mining-final-project)        | Applied SHAP analysis to identify evolutionary traits predicting animal taxonomy across 1,087 families                                              | Python, SHAP         |
-| [**R Visualization Portfolio**](https://github.com/BlueFlashX1/portfolio/tree/main/projects/r-analytics/data-visualization-portfolio)        | Created comprehensive visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams | R, ggplot2           |
+| Project                                                                                                                                                   | What I Applied                                                                                                                                      | Tech                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [**Healthcare Readmission Prediction**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/main/projects/data-science/foundation-of-data-science) | Developed Random Forest classifier for 30-day readmission risk; placed 5th/40 in class competition (ROC AUC 0.90) from 125,958 EHR encounters       | Python, Scikit-learn |
+| [**EHR Analytics Database**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/main/projects/database-systems/sql-nosql-databases-info579)       | Designed 3NF normalized schemas and created 14 analytical SQL reports analyzing 1,171 patients and 53,346 encounters                                | MySQL, Python        |
+| [**Taxonomic ML Classification**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/main/projects/data-science/data-mining-final-project)        | Applied SHAP analysis to identify evolutionary traits predicting animal taxonomy across 1,087 families                                              | Python, SHAP         |
+| [**R Visualization Portfolio**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/main/projects/r-analytics/data-visualization-portfolio)        | Created comprehensive visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams | R, ggplot2           |
 
 ---
 
@@ -95,7 +95,7 @@ I combine analytical skills with a Biology background to solve data problems. I'
 I'm seeking entry-level Data Analyst or Junior Data Scientist roles where I can apply my skills and continue growing as a data professional.
 
 <p align="center">
-  <a href="https://linkedin.com/in/matthewqilanthompson">
+  <a href="https://www.linkedin.com/in/matthewqilanthompson/">
     <img src="https://img.shields.io/badge/LinkedIn-View%20Experience-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:matthewqilanthompson.work@gmail.com">
