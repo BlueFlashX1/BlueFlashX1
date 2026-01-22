@@ -12,12 +12,20 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 ---
 
+## Contributions
+
+![Contributions](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/contributions-simple.svg)
+
+*Impact-weighted contributions: PRs merged (5pts), PRs opened (3pts), Reviews (2pts), Issues (1pt) — not just commit count*
+
+---
+
 ## Education
 
 | Degree                | Institution                                  | Status                 |
 | --------------------- | -------------------------------------------- | ---------------------- |
 | **M.S. Data Science** | University of Arizona (Online)               | In Progress — May 2026 |
-| **B.S. Biology**      | Gallaudet University _(Minor: Data Science)_ | Completed              |
+| **B.S. Biology**      | Gallaudet University *(Minor: Data Science)* | Completed              |
 
 ---
 
