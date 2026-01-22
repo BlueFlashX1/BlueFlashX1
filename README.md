@@ -16,8 +16,6 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 ![Contributions](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/contributions-simple.svg)
 
-*Impact-weighted contributions: PRs merged (5pts), PRs opened (3pts), Reviews (2pts), Issues (1pt) — not just commit count*
-
 ---
 
 ## Education
