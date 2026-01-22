@@ -16,6 +16,10 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 ![Contributions](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/contributions-simple.svg)
 
+## Top Languages
+
+![Top Languages](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/languages.svg)
+
 ---
 
 ## Education
