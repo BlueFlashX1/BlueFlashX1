@@ -12,16 +12,6 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 ---
 
-## Contributions
-
-![Contributions](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/contributions-simple.svg)
-
-## Top Languages
-
-![Top Languages](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/languages.svg)
-
----
-
 ## Education
 
 | Degree                | Institution                                  | Status                 |
@@ -115,6 +105,16 @@ I'm seeking entry-level Data Analyst or Junior Data Scientist roles where I can 
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-181717?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+## Contributions
+
+![Contributions](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/contributions-simple.svg)
+
+## Top Languages
+
+![Top Languages](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/languages.svg)
 
 ---
 
