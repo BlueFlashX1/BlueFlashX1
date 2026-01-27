@@ -64,6 +64,7 @@ I enjoy building tools and automation outside of class:
 | Project                                                                       | Description                                                                                                      | Tech         |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------ |
 | [**Multi Roblox Manager**](https://github.com/BlueFlashX1/multi-roblox-macos) | Enhanced fork with +7,400 lines: account switcher, macOS Keychain integration, resource monitor, friends manager | Go, Fyne GUI |
+| [**Discord Bots Collection**](https://github.com/BlueFlashX1/discord-bots) | Personal collection of 11+ Discord bots: AI-powered grammar checker (OpenAI GPT-4o-mini), task management, reminders, coding practice, and automation tools | Node.js, Python, OpenAI API, MongoDB, Discord.js |
 
 Other interests:
 
