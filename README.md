@@ -6,7 +6,7 @@
 
 ## Data Science MS Student (Bio Background) | R, Python & SQL for Healthcare/Biology Data | Python, AI & CLI for Workflow Automation
 
-Pursuing M.S. in Data Science at University of Arizona (Expected: May 2026) with B.S. in Biology and Data Science minor. I combine analytical skills with biological domain expertise, with particular interest in healthcare, life sciences, and AI-driven applications.
+Recently earned my M.S. in Data Science from the University of Arizona (May 2026), with a B.S. in Biology and a Data Science minor. I combine analytical skills with biological domain expertise, with particular interest in healthcare, life sciences, and AI-driven applications.
 
 I enjoy building automations to solve repetitive problems and writing scripts that make workflows more efficient — whether that's data pipelines or personal productivity tools.
 
@@ -16,7 +16,7 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 | Degree                | Institution                                  | Status                 |
 | --------------------- | -------------------------------------------- | ---------------------- |
-| **M.S. Data Science** | University of Arizona (Online)               | In Progress — May 2026 |
+| **M.S. Data Science** | University of Arizona (Online)               | Completed — May 2026   |
 | **B.S. Biology**      | Gallaudet University *(Minor: Data Science)* | Completed              |
 
 ---
