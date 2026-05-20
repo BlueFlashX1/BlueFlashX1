@@ -47,7 +47,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ---
 
-## Skills I Have
+## Technical Skills
 
 | Category             | Tools & Applications                                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -95,9 +95,7 @@ Other interests:
 
 - **Technical skills**: Python, SQL, and R with hands-on experience building ML models, designing databases, and creating visualizations
 - **Domain expertise**: Biology background that provides strong foundation for analyzing life sciences and healthcare data
-- **Proven results**: 5th/40 placement in ML competition (ROC AUC 0.90), database systems handling 53K+ encounters, statistical analyses across multiple domains
-
-I combine analytical skills with a Biology background to solve data problems. I've built predictive models achieving ROC AUC 0.90 (5th/40 in class competition), designed database systems handling 53K+ patient encounters, and created statistical visualizations across multiple domains. My Biology background provides domain expertise that enhances analysis of life sciences and healthcare data. Having recently completed my M.S. in Data Science, I'm seeking roles where I can apply these skills to deliver value while continuing to grow. While I'm particularly interested in healthcare and life sciences applications, I'm open to opportunities across industries.
+- **Proven results**: an ML model at ROC AUC 0.90 on 125,958 EHR encounters, database systems handling 53K+ patient encounters, and statistical analyses across multiple domains
 
 **Work style**: I prefer working independently and value efficiency, but I collaborate well when needed.
 
