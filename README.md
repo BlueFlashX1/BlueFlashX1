@@ -6,7 +6,7 @@
 
 ## Data Analyst · Environmental & Life-Sciences Data | R · Python · SQL | M.S. Data Science, Biology Background
 
-Recently earned my M.S. in Data Science from the University of Arizona (May 2026), building on a B.S. in Biology. I apply statistics, R, Python, and SQL to environmental and life-sciences data — with hands-on research experience in ecology, organismal biology, and marine science.
+Recently earned my M.S. in Data Science from the University of Arizona (May 2026), building on a B.S. in Biology. My background is hands-on quantitative research in the biological and environmental sciences — using statistical modeling in R to turn messy research data into clear findings, with Python for automating repetitive analysis work.
 
 I enjoy building automations to solve repetitive problems and writing scripts that make workflows more efficient — whether that's data pipelines or personal productivity tools.
 
@@ -17,7 +17,7 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 | Degree                | Institution                                  | Status                 |
 | --------------------- | -------------------------------------------- | ---------------------- |
 | **M.S. Data Science** | University of Arizona (Online)               | Completed — May 2026   |
-| **B.S. Biology**      | Gallaudet University *(Minor: Data Science)* | Completed              |
+| **B.S. Biology**      | Gallaudet University *(Minor: Data Science)* | Completed — May 2023   |
 
 ---
 
@@ -27,9 +27,8 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 | ---- | ------------ | ----- |
 | Post-Baccalaureate Trainee | Oklahoma State University (NSF ON-RaMP) | 1 yr independent research — statistical modeling in R (regression, ANOVA, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at SICB 2024 |
 | Summer Research Intern (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
-| Environmental Research Presenter | National Geospatial-Intelligence Agency conferences | Research projects on coral-reef conservation and climate-driven biodiversity; selected to present at the ESRI and GeoSpectrum conferences (2022–23) |
 
-*Full work history — including laboratory and mentoring roles — on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
+*Full work history on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
 
 ---
 
