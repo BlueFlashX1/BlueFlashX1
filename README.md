@@ -4,9 +4,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueFlashX1/Data-Science-Portfolio)
 
-## Data Analyst · Healthcare & Life Sciences | Python · R · SQL | M.S. Data Science, Biology Background
+## Data Analyst · Environmental & Life-Sciences Data | R · Python · SQL | M.S. Data Science, Biology Background
 
-Recently earned my M.S. in Data Science from the University of Arizona (May 2026), with a B.S. in Biology and a Data Science minor. I combine analytical skills with biological domain expertise, with particular interest in healthcare, life sciences, and AI-driven applications.
+Recently earned my M.S. in Data Science from the University of Arizona (May 2026), building on a B.S. in Biology. I apply statistics, R, Python, and SQL to environmental and life-sciences data — with hands-on research experience in ecology, organismal biology, and marine science.
 
 I enjoy building automations to solve repetitive problems and writing scripts that make workflows more efficient — whether that's data pipelines or personal productivity tools.
 
@@ -18,6 +18,16 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 | --------------------- | -------------------------------------------- | ---------------------- |
 | **M.S. Data Science** | University of Arizona (Online)               | Completed — May 2026   |
 | **B.S. Biology**      | Gallaudet University *(Minor: Data Science)* | Completed              |
+
+---
+
+## Research Experience
+
+| Role | Organization | Focus |
+| ---- | ------------ | ----- |
+| Post-Baccalaureate Trainee | Oklahoma State University (NSF ON-RaMP) | 1 yr independent research — statistical modeling in R (regression, ANOVA, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at SICB 2024 |
+| Summer Research Intern (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
+| Environmental Research Presenter | National Geospatial-Intelligence Agency conferences | Research projects on coral-reef conservation and climate-driven biodiversity; selected to present at the ESRI and GeoSpectrum conferences (2022–23) |
 
 ---
 
@@ -78,7 +88,7 @@ Other interests:
 
 **Target**: Entry-level **Data Analyst** roles (open to Junior Data Scientist opportunities)
 
-**Interests**: Healthcare data • Life sciences • AI-driven applications • Automation
+**Interests**: Environmental & ecological data • Life sciences • Climate & conservation • Automation
 
 **What I bring**:
 
