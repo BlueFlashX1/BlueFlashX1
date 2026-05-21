@@ -6,9 +6,9 @@
 
 ## Data Analyst · Environmental & Life-Sciences Data | R · Python · SQL | M.S. Data Science, Biology Background
 
-Recently earned my M.S. in Data Science from the University of Arizona (May 2026), building on a B.S. in Biology. My background is hands-on quantitative research in the biological and environmental sciences — using statistical modeling in R to turn messy research data into clear findings, with Python for automating repetitive analysis work.
+Recently earned my M.S. in Data Science from the University of Arizona (May 2026), building on a B.S. in Biology. My background is hands-on quantitative research in the biological and environmental sciences, using statistical modeling in R to turn messy research data into clear findings, with Python for automating repetitive analysis work.
 
-I enjoy building automations to solve repetitive problems and writing scripts that make workflows more efficient — whether that's data pipelines or personal productivity tools.
+I enjoy building automations to solve repetitive problems and writing scripts that make workflows more efficient, whether that's data pipelines or personal productivity tools.
 
 ---
 
@@ -16,8 +16,8 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 | Degree                | Institution                                  | Status                 |
 | --------------------- | -------------------------------------------- | ---------------------- |
-| **M.S. Data Science** | University of Arizona (Online)               | Completed — May 2026   |
-| **B.S. Biology**      | Gallaudet University *(Minor: Data Science)* | Completed — May 2023   |
+| **M.S. Data Science** | University of Arizona (Online)               | Completed, May 2026   |
+| **B.S. Biology**      | Gallaudet University *(Minor: Data Science)* | Completed, May 2023   |
 
 ---
 
@@ -25,7 +25,7 @@ I enjoy building automations to solve repetitive problems and writing scripts th
 
 | Role | Organization | Focus |
 | ---- | ------------ | ----- |
-| Post-Baccalaureate Trainee | Oklahoma State University (NSF ON-RaMP) | 1 yr independent research — statistical modeling in R (regression, ANOVA, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at SICB 2024 |
+| Post-Baccalaureate Trainee | Oklahoma State University (NSF ON-RaMP) | 1 yr independent research: statistical modeling in R (regression, ANOVA, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at SICB 2024 |
 | Summer Research Intern (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
 
 *Full work history on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
@@ -43,7 +43,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 | [**Taxonomic ML Classification**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project)        | Applied SHAP analysis to identify evolutionary traits predicting animal taxonomy across 1,087 families                                              | Python, SHAP         |
 | [**R Visualization Portfolio**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/r-analytics/data-visualization-portfolio)        | Created comprehensive visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams | R, ggplot2           |
 | [**Multi-Label Emotion Classification**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/deep-learning/emotion-classification-info557) | Built Conv1D + 5-seed ensemble CNN for 14-class GoEmotions text classification; placed 8th/15 on test (F1 0.672) with the 3rd-tightest dev→test gap on the leaderboard | Python, Keras, Hugging Face |
-| [**AI4HC Capstone — ER Simulator Poster**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/capstone/ai4hc-info698) | Team capstone at UA AI Core (healthcare-AI ER simulator). My role: designed the team's iShowcase poster (HTML/CSS, light/dark variants) and wrote a Python print-export pipeline; [view live](https://blueflashx1.github.io/Data-Science-Portfolio/projects/capstone/ai4hc-info698/index_v1.html) | HTML, CSS, Python |
+| [**AI4HC Capstone: ER Simulator Poster**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/capstone/ai4hc-info698) | Team capstone at UA AI Core (healthcare-AI ER simulator). My role: designed the team's iShowcase poster (HTML/CSS, light/dark variants) and wrote a Python print-export pipeline; [view live](https://blueflashx1.github.io/Data-Science-Portfolio/projects/capstone/ai4hc-info698/index_v1.html) | HTML, CSS, Python |
 
 ---
 
