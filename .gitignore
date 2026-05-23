@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.secret
+credentials.json
+service-account*.json
+
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Build
+dist/
+build/
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+memory/
