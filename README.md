@@ -99,7 +99,3 @@ I'm open to data roles where I can apply this toolkit and keep growing as a data
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-181717?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
-
----
-
-![Top Languages](https://raw.githubusercontent.com/matthewqilanthompson/github-contribution-visualizer/main/languages.svg)
