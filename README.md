@@ -102,10 +102,6 @@ I'm open to data roles where I can apply this toolkit and keep growing as a data
 
 ---
 
-## Contributions
-
-![Contributions](https://raw.githubusercontent.com/matthewqilanthompson/github-contribution-visualizer/main/contributions-simple.svg)
-
 ## Top Languages
 
 ![Top Languages](https://raw.githubusercontent.com/matthewqilanthompson/github-contribution-visualizer/main/languages.svg)
