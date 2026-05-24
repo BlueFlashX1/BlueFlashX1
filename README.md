@@ -72,23 +72,21 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ## What I'm Looking For
 
-**Target**: Entry-level **Data Analyst** roles (open to Junior Data Scientist opportunities)
+Data roles where rigor and adaptability matter — analyst, science, BI, or research-adjacent positions across industries. Open to opportunities where research instinct + a versatile toolkit make a difference.
 
-**Interests**: Environmental & ecological data • Life sciences • Climate & conservation • Automation
+**Domain interests**: Life sciences, healthcare, environmental & ecological data, climate & conservation — though I'm equally at home learning a new domain from scratch.
 
 **What I bring**:
 
-- **Technical skills**: Python, SQL, and R with hands-on experience building ML models, designing databases, and creating visualizations
-- **Domain expertise**: Biology background that provides strong foundation for analyzing life sciences and healthcare data
-- **Proven results**: an ML model at ROC AUC 0.90 on 125,958 EHR encounters, database systems handling 53K+ patient encounters, and statistical analyses across multiple domains
-
-**Work style**: I prefer working independently and value efficiency, but I collaborate well when needed.
+- **Technical breadth**: Python, R, and SQL across the data lifecycle — ML, statistics, database design, visualization, and automation
+- **Research instinct**: Biology background gives me a strong base for hypothesis-driven analysis in unfamiliar domains
+- **Proven results**: ML model at ROC-AUC 0.90 on 125,958 EHR encounters, 3NF database design over 53K patient encounters, statistical analyses spanning wildlife ecology to housing economics
 
 ---
 
 ## Let's Connect
 
-I'm seeking entry-level Data Analyst or Junior Data Scientist roles where I can apply my skills and continue growing as a data professional.
+I'm open to data roles where I can apply this toolkit and keep growing as a data professional.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matthewqilanthompson/">
