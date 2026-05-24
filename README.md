@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewqilanthompson/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewqilanthompson.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueFlashX1/Data-Science-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matthewqilanthompson/Data-Science-Portfolio)
 
 ## Data Analyst · Environmental & Life-Sciences Data | R · Python · SQL | M.S. Data Science, Biology Background
 
@@ -38,12 +38,12 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 | Project                                                                                                                                                   | What I Applied                                                                                                                                      | Tech                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [**Healthcare Readmission Prediction**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day hospital readmission risk; ROC AUC 0.90 across 125,958 synthetic EHR encounters, after comparing 9 algorithms       | Python, Scikit-learn |
-| [**EHR Analytics Database**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579)       | Designed 3NF normalized schemas and created 14 analytical SQL reports analyzing 1,171 patients and 53,346 encounters                                | MySQL, Python        |
-| [**Taxonomic ML Classification**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project)        | Applied SHAP analysis to identify evolutionary traits predicting animal taxonomy across 1,087 families                                              | Python, SHAP         |
-| [**R Visualization Portfolio**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/r-analytics/data-visualization-portfolio)        | Created comprehensive visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams | R, ggplot2           |
-| [**Multi-Label Emotion Classification**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/deep-learning/emotion-classification-info557) | Built Conv1D + 5-seed ensemble CNN for 14-class GoEmotions text classification; placed 8th/15 on test (F1 0.672) with the 3rd-tightest dev→test gap on the leaderboard | Python, Keras, Hugging Face |
-| [**AI4HC Capstone: ER Simulator Poster**](https://github.com/BlueFlashX1/Data-Science-Portfolio/tree/master/projects/capstone/ai4hc-info698) | Team capstone at UA AI Core (healthcare-AI ER simulator). My role: designed the team's iShowcase poster (HTML/CSS, light/dark variants) and wrote a Python print-export pipeline; [view live](https://blueflashx1.github.io/Data-Science-Portfolio/projects/capstone/ai4hc-info698/index_v1.html) | HTML, CSS, Python |
+| [**Healthcare Readmission Prediction**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/foundation-of-data-science) | Built a Random Forest classifier for 30-day hospital readmission risk; ROC AUC 0.90 across 125,958 synthetic EHR encounters, after comparing 9 algorithms       | Python, Scikit-learn |
+| [**EHR Analytics Database**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/database-systems/sql-nosql-databases-info579)       | Designed 3NF normalized schemas and created 14 analytical SQL reports analyzing 1,171 patients and 53,346 encounters                                | MySQL, Python        |
+| [**Taxonomic ML Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/data-science/data-mining-final-project)        | Applied SHAP analysis to identify evolutionary traits predicting animal taxonomy across 1,087 families                                              | Python, SHAP         |
+| [**R Visualization Portfolio**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/r-analytics/data-visualization-portfolio)        | Created comprehensive visualizations across wildlife ecology, occupational safety, and housing economics using ggplot2, including alluvial diagrams | R, ggplot2           |
+| [**Multi-Label Emotion Classification**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/deep-learning/emotion-classification-info557) | Built Conv1D + 5-seed ensemble CNN for 14-class GoEmotions text classification; placed 8th/15 on test (F1 0.672) with the 3rd-tightest dev→test gap on the leaderboard | Python, Keras, Hugging Face |
+| [**AI4HC Capstone: ER Simulator Poster**](https://github.com/matthewqilanthompson/Data-Science-Portfolio/tree/master/projects/capstone/ai4hc-info698) | Team capstone at UA AI Core (healthcare-AI ER simulator). My role: designed the team's iShowcase poster (HTML/CSS, light/dark variants) and wrote a Python print-export pipeline; [view live](https://blueflashx1.github.io/Data-Science-Portfolio/projects/capstone/ai4hc-info698/index_v1.html) | HTML, CSS, Python |
 
 ---
 
@@ -76,7 +76,7 @@ I enjoy building tools and automation outside of class:
 
 | Project                                                                       | Description                                                                                                      | Tech         |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------ |
-| [**Multi Roblox Manager**](https://github.com/BlueFlashX1/multi-roblox-macos) | Enhanced fork with +7,400 lines: account switcher, macOS Keychain integration, resource monitor, friends manager | Go, Fyne GUI |
+| [**Multi Roblox Manager**](https://github.com/matthewqilanthompson/multi-roblox-macos) | Enhanced fork with +7,400 lines: account switcher, macOS Keychain integration, resource monitor, friends manager | Go, Fyne GUI |
 
 Other interests:
 
@@ -112,7 +112,7 @@ I'm seeking entry-level Data Analyst or Junior Data Scientist roles where I can 
   <a href="mailto:matthewqilanthompson.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://github.com/BlueFlashX1/Data-Science-Portfolio">
+  <a href="https://github.com/matthewqilanthompson/Data-Science-Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-181717?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
 </p>
@@ -121,11 +121,11 @@ I'm seeking entry-level Data Analyst or Junior Data Scientist roles where I can 
 
 ## Contributions
 
-![Contributions](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/contributions-simple.svg)
+![Contributions](https://raw.githubusercontent.com/matthewqilanthompson/github-contribution-visualizer/main/contributions-simple.svg)
 
 ## Top Languages
 
-![Top Languages](https://raw.githubusercontent.com/BlueFlashX1/github-contribution-visualizer/main/languages.svg)
+![Top Languages](https://raw.githubusercontent.com/matthewqilanthompson/github-contribution-visualizer/main/languages.svg)
 
 ---
 
