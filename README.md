@@ -6,7 +6,7 @@
 
 ## Data Science · Biology Background · R · Python · SQL · M.S. University of Arizona
 
-Recently earned my M.S. in Data Science from the University of Arizona (May 2026), building on a B.S. in Biology. My background is hands-on quantitative research with strong fluency in R, Python, and SQL across the full data lifecycle — turning messy data into clear findings, building pipelines, and automating repetitive work.
+My background is hands-on quantitative research with strong fluency in R, Python, and SQL across the full data lifecycle — turning messy data into clear findings, building pipelines, and automating repetitive work. A Biology B.S. underpins the research instinct; an M.S. in Data Science formalizes the toolkit.
 
 I enjoy building automations and writing scripts that make workflows more efficient, whether that's data pipelines, ML experiments, or personal productivity tools.
 
