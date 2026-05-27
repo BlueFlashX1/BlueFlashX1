@@ -6,9 +6,9 @@
 
 ## Data Science · Biology Background · R · Python · SQL · M.S. University of Arizona
 
-My background is hands-on quantitative research with strong fluency in R, Python, and SQL across the full data lifecycle: turning messy data into clear findings, building pipelines, and automating repetitive work.
+My background is hands-on quantitative research with strong fluency in R, Python, and SQL across the full data lifecycle: turning messy data into clear findings, writing automation scripts, and making workflows more efficient.
 
-I enjoy building automations and writing scripts that make workflows more efficient, whether that's data pipelines, machine learning (ML) experiments, or personal productivity tools.
+I enjoy building automations and writing scripts that make workflows more efficient, whether that's data-handling scripts, machine learning (ML) experiments, or personal productivity tools.
 
 ---
 
@@ -25,7 +25,7 @@ I enjoy building automations and writing scripts that make workflows more effici
 
 | Role | Organization | Focus |
 | ---- | ------------ | ----- |
-| Post-Baccalaureate Trainee | Oklahoma State University, National Science Foundation (NSF) ON-RaMP research training program | 1 year of independent research: statistical modeling in R (regression, analysis of variance, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at the 2024 Society for Integrative and Comparative Biology (SICB) conference |
+| Research Intern | Oklahoma State University, National Science Foundation (NSF) ON-RaMP postbaccalaureate research training program | 1 year of independent research: statistical modeling in R (regression, analysis of variance, repeatability) on grasshopper coloration & behavior; built a Python automation script; presented at the 2024 Society for Integrative and Comparative Biology (SICB) conference |
 | Summer Research Intern, NSF Research Experiences for Undergraduates (REU) | Maryland Sea Grant | Selected from 400+ applicants; quantified marine microbial abundance across depth gradients in R & Excel; extended into an Honors thesis |
 
 *Full work history on [LinkedIn](https://www.linkedin.com/in/matthewqilanthompson/).*
@@ -72,7 +72,7 @@ These projects demonstrate my data science capabilities across healthcare analyt
 
 ## What I'm Looking For
 
-Data roles where rigor and adaptability matter: analyst, data science, business intelligence (BI), or research-adjacent positions. Open to opportunities where research instinct and a versatile toolkit make a difference.
+Open to data work where biology and analytics overlap.
 
 **Domain interests**: Life sciences, healthcare, environmental & ecological data, and climate & conservation, though I'm equally at home learning a new domain from scratch.
 
